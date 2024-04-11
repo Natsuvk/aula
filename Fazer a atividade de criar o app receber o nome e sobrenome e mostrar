@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    cadeia nome, sobrenome
+    escreva ("qual é o seu nome?")
+    leia (nome)
+    escreva ("qual é o seu sobrenome?")
+    leia (sobrenome)
+    escreva ("seu nome completo é: ", nome, sobrenome)
+  }
+}
